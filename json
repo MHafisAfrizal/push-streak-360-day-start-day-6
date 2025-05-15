@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "fa-laptop-code",
+    "title": "Web Development",
+    "description": "Kami bangun website cepat, responsif, dan user-friendly untuk segala jenis bisnis."
+  },
+  {
+    "icon": "fa-pen-nib",
+    "title": "Desain UI/UX",
+    "description": "Desain modern dan intuitif agar pengguna kamu betah, nyaman, dan gampang paham."
+  },
+  {
+    "icon": "fa-rocket",
+    "title": "Optimasi & Launching",
+    "description": "Kami bantu optimasi performa dan SEO, lalu bantu deploy sampai website kamu online."
+  }
+]
